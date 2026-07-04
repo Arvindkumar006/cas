@@ -24,3 +24,16 @@ dist-ssr
 *.sw?
 
 .vercel
+
+# Rust/Cargo Build Exclusions
+target
+.cargo_target_temp
+isolated_target
+fresh_target
+target_check
+Cargo.lock
+wasm
+*.wasm
+*.pem
+*_db.json
+
