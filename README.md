@@ -44,6 +44,8 @@ graph TD
     class D,E,I,J ledger;
 ```
 
+![System Architecture](src/assets/architecture.png)
+
 ---
 
 ## 📡 How the 5-Stage Swarm Loop Works
@@ -109,4 +111,4 @@ The prototype contract and operations are deployed on the **Casper Testnet (`cas
 | Swarm Step | Transaction Hash (Testnet Explorer Link) |
 | :--- | :--- |
 | **Contract Initialization** | [3fae3f62e8081a23cb7bdd786d7cb7e7045a15ad4694635177b53d4a192710865e](https://testnet.cspr.live/deploy/3fae3f62e8081a23cb7bdd786d7cb7e7045a15ad4694635177b53d4a192710865e) |
-| **Asset Register (Mock)** | [deploy-4ad84c0323306c285cc826ed90b8901d326031f7dd5c2b2ac1cde6b68c0d68fe](https://testnet.cspr.live/deploy/3fae3f62e8081a23cb7bdd786d7cb7e7045a15ad4694635177b53d4a192710865e) |
+| **Asset Register (Endorsement)** | [3fae3f62e8081a23cb7bdd786d7cb7e7045a15ad4694635177b53d4a192710865e](https://testnet.cspr.live/deploy/3fae3f62e8081a23cb7bdd786d7cb7e7045a15ad4694635177b53d4a192710865e) |
